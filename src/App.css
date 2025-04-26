@@ -1,0 +1,118 @@
+/* Reset basic styles */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Avenir', 'Segoe UI', 'Helvetica Neue', sans-serif;
+  background-color: #f0f2f5;
+  color: #333;
+}
+
+/* App container */
+.App {
+  padding: 20px;
+}
+
+/* Navbar */
+.navbar {
+  background-color: #0077cc;
+  padding: 15px;
+  color: white;
+  text-align: center;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+/* General container for pages */
+.page-container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* Form fields */
+input[type="text"],
+input[type="url"],
+textarea,
+select {
+  width: 100%;
+  padding: 12px;
+  margin: 10px 0 20px 0;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-sizing: border-box;
+}
+
+/* Form buttons */
+button {
+  background-color: #0077cc;
+  color: white;
+  border: none;
+  padding: 12px 20px;
+  margin-top: 10px;
+  margin-right: 10px;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+button:hover {
+  background-color: #005fa3;
+}
+
+/* Post card */
+.post-card {
+  background: white;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 20px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.post-card h2 {
+  margin-top: 0;
+}
+
+.post-card p {
+  margin-bottom: 10px;
+}
+
+/* Links */
+a {
+  color: #0077cc;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Comments section */
+.comment-section {
+  margin-top: 30px;
+}
+
+.comment {
+  background: #e8e8e8;
+  border-radius: 5px;
+  padding: 10px;
+  margin-top: 10px;
+}
+
+/* Upvote button */
+.upvote-button {
+  background-color: #28a745;
+  padding: 10px 16px;
+  margin-right: 10px;
+  border-radius: 5px;
+}
+
+.upvote-button:hover {
+  background-color: #218838;
+}
+
+/* Responsive tweaks */
+@media (max-width: 600px) {
+  .page-container {
+    padding: 10px;
+  }
+}
