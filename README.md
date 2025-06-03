@@ -1,8 +1,8 @@
-# Web Development Final Project - one piece forum
+# Web Development Final Project -  forum
 
 Submitted by: Zachary Amanuel
 
-This web app: allows you to comment and post about one piece
+This web app: allows you to comment and post about random topics
 
 Time spent: 10 hours spent in total
 
