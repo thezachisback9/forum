@@ -14,5 +14,6 @@ This project was built using the React framework with Vite. I created reusable c
 The state was managed locally within React, and posts were stored in memory. I also implemented sorting and searching functionality entirely on the client side, giving users flexible ways to explore content.
 
 Lessons Learned:
+
 One of the biggest challenges for me was figuring out how to route the pages correctly. I had learned the topic recently so I was excited to put it into practice but it definitely took me a few tries before I got it to work. However, once I got the hang of it, it became a lot more smooth to implement
 
