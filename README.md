@@ -2,6 +2,7 @@ Forum
 This web application allows users to create, view, comment on, and upvote posts across a dynamic forum-style interface. The app emphasizes user interaction and responsive design.
 
 GIF walkthrough:
+
 <img src='https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGxiN2Eyb285d3hlZTV3ZXJ4OGxrdXl5aW5vNzJxajJ4Mms1eXIxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SiI3SXqEj5UtfdY67n/giphy.gif' />
 
 
