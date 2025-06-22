@@ -1,4 +1,5 @@
 Forum
+
 This web application allows users to create, view, comment on, and upvote posts across a dynamic forum-style interface. The app emphasizes user interaction and responsive design.
 
 GIF walkthrough:
